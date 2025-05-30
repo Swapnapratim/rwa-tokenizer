@@ -105,7 +105,7 @@ So, token transfers are baked into the CCIP protocol, but you have to work with 
 
 1. Clone the repo, navigate to the directory, and install dependencies with `make`
 ```
-git clone https://github.com/PatrickAlphaC/rwa-creator
+git clone https://github.com/Swapnapratim/rwa-tokenizer.git
 cd rwa-tokenizer
 make
 ```
